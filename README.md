@@ -1,8 +1,10 @@
 # Enhancing AI's Emotional Understanding in Conversations Through PEFT Techniques and Custom Embeddings
-
-[setup instructions](#Setup)
-
 `Welcome to LoRA's Emotion. `
+#### Quick links:
+- [My Blog on Medium about the research](https://medium.com/@shaswat607/advancing-ais-emotional-intelligence-in-conversations-exploring-peft-techniques-and-custom-c76f3ed94a67)
+- [Setup instructions](#Setup)
+
+
 
 This repository is about capturing the subtle art of human emotion through the lens of artificial intelligence. It explores the intricate dance between words and feelings, employing advanced NLP techniques and fine-tuning methods to craft a model that perceives and responds with the empathy and depth of a true conversationalist. Here lies the fusion of cognitive science and machine learning, a step towards building AI that resonates with the human spirit.
 
